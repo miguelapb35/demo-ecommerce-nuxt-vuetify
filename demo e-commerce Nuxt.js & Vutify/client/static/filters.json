@@ -1,0 +1,36 @@
+{
+  "category": [
+    "sneakers",
+    "flats",
+    "heels",
+    "workwear",
+    "boots",
+    "sandals",
+    "trainers",
+    "sleepers",
+    "flip-flops",
+    "other"
+  ],
+  "size": ["6", "7", "8", "9", "10", "11", "12"],
+  "brand": [
+    "gucci",
+    "dior",
+    "adidas",
+    "puma",
+    "docMartins",
+    "converse",
+    "timberland",
+    "clarks",
+    "vans",
+    "nike",
+    "zara",
+    "levi's",
+    "ralph loren",
+    "lacoste",
+    "mango",
+    "calvin klein",
+    "guess",
+    "other"
+  ],
+  "condition": ["new", "good", "used"]
+}
